@@ -1,0 +1,22 @@
+{
+    "LICENZA12345": {
+        "data_acquisto": "2023-01-01",
+        "validita_mesi": 12,
+        "valida": true
+    },
+    "LICENZA67890": {
+        "data_acquisto": "2022-06-01",
+        "validita_mesi": 6,
+        "valida": false
+    },
+    "LICENZA24680": {
+        "data_acquisto": "2024-02-01",
+        "validita_mesi": 24,
+        "valida": true
+    },
+    "LICENZA99999": {
+        "data_acquisto": "2025-02-05",
+        "validita_mesi": 6,
+        "valida": false
+    }
+}
